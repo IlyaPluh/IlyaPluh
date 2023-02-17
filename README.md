@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, about me 👇
+
+<a href="https://www.linkedin.com/in/ilyaandryianau/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" width="320" height="85" alt="LinkedIn"/>
+</a>
 
 <!--
 **IlyaPluh/IlyaPluh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
